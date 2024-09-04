@@ -1,4 +1,4 @@
-import WebSocket from 'websocket';
+// import WebSocket from 'websocket';
 
 class ChatClient {
     constructor(secretKey, accessKey) {
